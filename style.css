@@ -31,7 +31,7 @@ body {
     min-height: 100vh;
     padding: 10px 10px 10px 10px;
     border-radius: 5px;
-    background-image: url(images/wood_background.jpg);
+    background-image: url(wood_background.jpg);
     background-position: left top;
     background-repeat: repeat;
 }
@@ -232,50 +232,50 @@ button {
 }
 
 #auseklis{
-    background-image: url(images/auseklis.jpg);
+    background-image: url(auseklis.jpg);
 }
 #dievakrusts{
-    background-image: url(images/dievakrusts.jpg);
+    background-image: url(dievakrusts.jpg);
 }
 
 #janazime{
-    background-image: url(images/janazime.jpg);
+    background-image: url(janazime.jpg);
 }
 
 #jumis{
-    background-image: url(images/jumis.jpg);
+    background-image: url(jumis.jpg);
 }
 
 #krustukrusts{
-    background-image: url(images/krustukrusts.jpg);
+    background-image: url(krustukrusts.jpg);
 }
 
 #laimaszime{
-    background-image: url(images/laimaszime.jpg);
+    background-image: url(laimaszime.jpg);
 }
 
 #marasudeni{
-    background-image: url(images/marasudeni.jpg);
+    background-image: url(marasudeni.jpg);
 }
 
 #maraszime{
-    background-image: url(images/maraszime.jpg);
+    background-image: url(maraszime.jpg);
 }
 
 #menesskrusts{
-    background-image: url(images/meneskrusts.jpg);
+    background-image: url(meneskrusts.jpg);
 }
 
 #sauleszime{
-    background-image: url(images/sauleszime.jpg);
+    background-image: url(sauleszime.jpg);
 }
 
 #zalktis{
-    background-image: url(images/zalktis.jpg);
+    background-image: url(zalktis.jpg);
 }
 
 #zvaigzneszime{
-    background-image: url(images/zvaigzneszime.jpg);
+    background-image: url(zvaigzneszime.jpg);
 }
 h2{
     text-align: center;
